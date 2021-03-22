@@ -1,0 +1,21 @@
+{
+  "name": "mark4dev",
+  "version": "1.0.0",
+  "description": "Lightweight realtime markdown viewer and editor - Simple, clean and beautiful",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiraag-kakar/mark4dev.git"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  },
+  "keywords": [],
+  "author": "Chiraag Kakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiraag-kakar/mark4dev/issues"
+  },
+  "homepage": "https://github.com/chiraag-kakar/mark4dev#readme"
+}
